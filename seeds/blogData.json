@@ -1,0 +1,24 @@
+[
+    {
+      "title": "My Tech Blog 1 ",
+      "blog_content": "My experience with HTML",
+      "user_id": 1
+    },
+    {
+      "title": "My Tech Blog 2",
+      "blog_content": "My journey with CSS",
+      "user_id": 2
+    },
+    {
+      "title": "My Tech Blog 3",
+      "blog_content": "My trouble with JavaScript",
+      "user_id": 3
+    },
+    {
+      "title": "My Tech Blog 4",
+      "blog_content": "My criques regarding React",
+      "user_id": 4
+    }
+
+  ]
+  

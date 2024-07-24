@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Cedric",
+        "comment": "Dude this is great work man. I'm INSPIRED af.",
+        "blog_id": "1"
+    },
+    {
+        "name": "Kevin",
+        "comment": "Yo my dude epic work bra.",
+        "blog_id": "1"
+    },
+    {
+        "name": "Leonardo",
+        "comment": "Hey bro, saludos desde Chiapas!",
+        "blog_id": "2"
+    },
+    {
+        "name": "Yukohama",
+        "comment": "Moshi moshi!",
+        "blog_id": "3"
+    },
+    {
+        "name": "Jamal",
+        "comment": "Legit FIRE.",
+        "blog_id": "4"
+    }
+]
